@@ -1,42 +1,12 @@
-# Rocketseat Ignite ReactJS 2022 - Desafio 4: Ignite Shop
+![Rocketseat](_docs/capa.jpg)
+
+This repository contains the resolution of 4th project: Adding features to the Ignite Shop from the react js course by rocketseat. In this challenge, a to-do list was developed using reactjs. In this challenge, a shopping cart was implemented in the project, with the option to add and remove items before proceeding to checkout in the Stripe api.
+
+
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 ![Ignite Shop Projeto](https://s4.gifyu.com/images/Design-sem-nome-1fc1684c0d53fbb36.gif)
-
-## Sobre o Desafio
-
-Nesse desafio, foi implementado um carrinho de compras ao projeto, com a opção de adicionar e remover os itens antes de prosseguir ao checkout na api do Stripe.
-
-Layout: [Figma - Ignite Shop](https://www.figma.com/file/pPrrbxlOSaCnfh3dCgh1mE/Desafio-4-Ignite-2022---Shop-2.0?node-id=0%3A1)
-
-
-## Instalação
-
-Clone o projeto
-
-```bash
-  git clone https://github.com/gustavosorati/rocketseat-ignite-reactjs-2022
-```
-
-Entre no diretório do projeto
-
-```bash
-  cd desafios/desafio-04-ignite-shop
-```
-
-Baseando no arquivo `.env.local` crie suas variáveis ambientes com suas keys do **STRIPE**. Após isso, instale as dependências.
-
-```bash
-  npm install
-```
-
-Execute o projeto
-
-```bash
-  npm run dev
-```
-
-
-## Stack utilizada
-
-**Front-end:** Next, Stitches, keen-slider and Stripe
 
